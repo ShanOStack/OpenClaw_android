@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OpenClaw Agent</string>
+    <string name="accessibility_service_label">OpenClaw Agent Core Controller</string>
+    <string name="accessibility_service_description">Enables OpenClaw AI to execute user voice commands across device applications, perform smart clicks, search, text inputs and settings automation.</string>
+</resources>
